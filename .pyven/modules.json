@@ -1,0 +1,55 @@
+{
+    "name": "PyGames",
+    "repoLink": "https://github.com/KausikN/PyGames",
+    "localPath": "E:/Github Codes and Projects/Projects/PyGames",
+    "modules": {
+        "InfiniteCubes.py": {
+            "name": "InfiniteCubes",
+            "type": "local",
+            "link": "https://github.com/KausikN/PyGames/blob/master/InfiniteCubes.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "subDir": "",
+            "dependencies": [
+                "pygame.py",
+                "random.py",
+                "*.py",
+                "*.py",
+                "*.py"
+            ]
+        },
+        "PyGameGame.py": {
+            "name": "PyGameGame",
+            "type": "local",
+            "link": "https://github.com/KausikN/PyGames/blob/master/PyGameGame.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "subDir": "",
+            "dependencies": [
+                "pygame.py"
+            ]
+        },
+        "*.py": {
+            "name": "*",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "pygame.py": {
+            "name": "pygame",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "subDir": "",
+            "dependencies": []
+        },
+        "random.py": {
+            "name": "random",
+            "type": "inbuilt",
+            "link": "",
+            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "subDir": "",
+            "dependencies": []
+        }
+    }
+}
