@@ -1,0 +1,10 @@
+{
+    "PROJECT_NAME": "PyGames",
+    "PROJECT_LINK": "https://github.com/KausikN/PyGames",
+
+    "PROJECT_DESC": "Simple games and fun projects using pygame python module",
+
+    "PROJECT_README": "README.md",
+
+    "PROJECT_MODES": ["Infinite Cubes", "Test Game"]
+}

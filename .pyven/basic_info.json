@@ -1,4 +1,8 @@
 {
     "repo_name": "PyGames",
-    "requirements": []
+    "requirements": [
+        "pygame==2.0.2",
+        "PyOpenGL==3.1",
+        "streamlit==1.8.1"
+    ]
 }

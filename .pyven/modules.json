@@ -3,6 +3,18 @@
     "repoLink": "https://github.com/KausikN/PyGames",
     "localPath": "E:/Github Codes and Projects/Projects/PyGames",
     "modules": {
+        "app.py": {
+            "name": "app",
+            "type": "local",
+            "link": "https://github.com/KausikN/PyGames/blob/master/app.py",
+            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "subDir": "",
+            "dependencies": [
+                "os.py",
+                "streamlit.py",
+                "json.py"
+            ]
+        },
         "InfiniteCubes.py": {
             "name": "InfiniteCubes",
             "type": "local",
@@ -27,6 +39,30 @@
                 "pygame.py"
             ]
         },
+        "pygame.py": {
+            "name": "pygame",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "os.py": {
+            "name": "os",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
+        "json.py": {
+            "name": "json",
+            "type": "missing",
+            "link": "",
+            "parentDir": "",
+            "subDir": "",
+            "dependencies": []
+        },
         "*.py": {
             "name": "*",
             "type": "missing",
@@ -35,19 +71,19 @@
             "subDir": "",
             "dependencies": []
         },
-        "pygame.py": {
-            "name": "pygame",
-            "type": "inbuilt",
+        "streamlit.py": {
+            "name": "streamlit",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         },
         "random.py": {
             "name": "random",
-            "type": "inbuilt",
+            "type": "missing",
             "link": "",
-            "parentDir": "E:/Github Codes and Projects/Projects/PyGames",
+            "parentDir": "",
             "subDir": "",
             "dependencies": []
         }
