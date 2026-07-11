@@ -4,5 +4,8 @@
         "app.py",
         "Games/",
         "Assets/"
-    ]
+    ],
+    "streamlit": {
+        "link": ""
+    }
 }

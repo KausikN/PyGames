@@ -1,13 +1,13 @@
 # PyGames
- Simple games and fun projects using pygame python module
+Simple games and fun projects using pygame python module
 
 # GUI
 [![https://infinityjoker-apps.herokuapp.com/](https://pyheroku-badge.herokuapp.com/?app=infinityjoker-apps&style=plastic)](https://infinityjoker-apps.herokuapp.com/)
 
- - GUI built using streamlit
- - To use app locally,
-    - Clone the repo and run [StartUI.sh](StartUI.sh) to view the app on your browser!
- - App is also hosted remotely on heroku using my common host app,
+- GUI built using streamlit
+- To use app locally,
+    - Clone the repo and run [run.sh](run.sh) to view the app on your browser!
+- App is also hosted remotely on heroku using my common host app,
     - [https://infinityjoker-apps.herokuapp.com/](https://infinityjoker-apps.herokuapp.com/)
 
     - In the Common Host App, simply choose a project to load and click load and deploy.
